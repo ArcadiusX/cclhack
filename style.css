@@ -1,0 +1,20 @@
+body{
+    background-image: url("https://images.pexels.com/photos/5124882/pexels-photo-5124882.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    background-repeat: no-repeat;
+    background-size: cover;
+   }
+
+.header h1{
+    background-color: white;
+    border-radius: 15px;
+    text-align: center;
+    padding: 1vw 2vw;
+        
+}
+
+.header {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
